@@ -1,0 +1,576 @@
+[
+    {
+        "id": 1,
+        "nama": "Artichoke",
+        "ph": "6.5-7.5",
+        "ppm": "560-1260",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 2,
+        "nama": "Asparagus",
+        "ph": "6.0-6.8",
+        "ppm": "980-1200",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 3,
+        "nama": "Bawang Pre",
+        "ph": "6.5-7.0",
+        "ppm": "980-1260",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 4,
+        "nama": "Bayam",
+        "ph": "6.0-7.0",
+        "ppm": "1260-1610",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 5,
+        "nama": "Brokoli",
+        "ph": "6.0-6.8",
+        "ppm": "1960-2450",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 6,
+        "nama": "Brussell Kecambah",
+        "ph": "6.5",
+        "ppm": "1750-2100",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 7,
+        "nama": "Endive",
+        "ph": "5.5",
+        "ppm": "1400-1680",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 8,
+        "nama": "Kailan",
+        "ph": "5.5-6.5",
+        "ppm": "1050-1400",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 9,
+        "nama": "Kangkung",
+        "ph": "5.5-6.5",
+        "ppm": "1050-1400",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 10,
+        "nama": "Kubis",
+        "ph": "6.5-7.0",
+        "ppm": "row4col3",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 11,
+        "nama": "Kubis Bunga",
+        "ph": "6.5-7.0",
+        "ppm": "1050-1400",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 12,
+        "nama": "Pakcoy",
+        "ph": "7.0",
+        "ppm": "1050-1400",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 13,
+        "nama": "Sawi Manis",
+        "ph": "5.5-6.5",
+        "ppm": "1050-1400",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 14,
+        "nama": "Sawi Pahit",
+        "ph": "6.0-6.5",
+        "ppm": "840-1680",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 15,
+        "nama": "Seledri",
+        "ph": "6.5",
+        "ppm": "1260-1680",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 16,
+        "nama": "Selada",
+        "ph": "6.0-7.0",
+        "ppm": "560-840",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 17,
+        "nama": "Silverbeet",
+        "ph": "6.0-7.0",
+        "ppm": "1260-1610",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 18,
+        "nama": "Pakcoy",
+        "ph": "7.0",
+        "ppm": "1050-1400",
+        "jenis": "Sayuran Daun"
+    },
+    {
+        "id": 19,
+        "nama": "African Violet",
+        "ph": "6.0-7.0",
+        "ppm": "840-1-50",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 20,
+        "nama": "Anthurium",
+        "ph": "5.0-6.0",
+        "ppm": "1120-1400",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 21,
+        "nama": "Antirrhinim",
+        "ph": "6.5",
+        "ppm": "1120-1400",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 22,
+        "nama": "Aphelandra",
+        "ph": "5.0-6.0",
+        "ppm": "1260-1680",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 23,
+        "nama": "Aster",
+        "ph": "6.0-6.5",
+        "ppm": "1260-1680",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 24,
+        "nama": "Begonia",
+        "ph": "6.5",
+        "ppm": "980-1260",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 25,
+        "nama": "Bromeliads",
+        "ph": "5.0-7.5",
+        "ppm": "560-840",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 26,
+        "nama": "Caladium",
+        "ph": "6.0-7.5",
+        "ppm": "1120-1400",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 27,
+        "nama": "Canna",
+        "ph": "6.0",
+        "ppm": "1260-1680",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 28,
+        "nama": "Carnation",
+        "ph": "6.0",
+        "ppm": "1260-2450",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 29,
+        "nama": "Chrysanthemu",
+        "ph": "6.0-6.2",
+        "ppm": "1400-1750",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 30,
+        "nama": "Cymbidiums",
+        "ph": "5.5",
+        "ppm": "420-560",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 31,
+        "nama": "Dahlia",
+        "ph": "6.0-7.0",
+        "ppm": "1050-1400",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 32,
+        "nama": "Dieffenbachia",
+        "ph": "5.0",
+        "ppm": "1400-1680",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 33,
+        "nama": "Dracaena",
+        "ph": "5.0-6..0",
+        "ppm": "14.00-1680",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 34,
+        "nama": "Ferns",
+        "ph": "6.0",
+        "ppm": "1120-1400",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 35,
+        "nama": "Ficus",
+        "ph": "5.5-6.0",
+        "ppm": "1120-1680",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 36,
+        "nama": "Freesia",
+        "ph": "6.5",
+        "ppm": "700-1400",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 37,
+        "nama": "Impatiens",
+        "ph": "5.5-6.5",
+        "ppm": "1260-1400",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 38,
+        "nama": "Gerbera",
+        "ph": "5.0-6.5",
+        "ppm": "1400-1750",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 39,
+        "nama": "Gladiolus",
+        "ph": "5.5-6.5",
+        "ppm": "1400-1680",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 40,
+        "nama": "Monstera",
+        "ph": "5.0-6.0",
+        "ppm": "1400-1680",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 41,
+        "nama": "Palms",
+        "ph": "6.0-7.5",
+        "ppm": "1120-1400",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 42,
+        "nama": "Roses",
+        "ph": "5.5-6.0",
+        "ppm": "1050-1750",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 43,
+        "nama": "Stock",
+        "ph": "6.0-7.0",
+        "ppm": "1120-1400",
+        "jenis": "Tanaman Bunga"
+    },
+    {
+        "id": 44,
+        "nama": "Basil",
+        "ph": "5.5-6.5",
+        "ppm": "700-1120",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 45,
+        "nama": "Chicory",
+        "ph": "5.5-6.0",
+        "ppm": "14.00-1600",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 46,
+        "nama": "Chives",
+        "ph": "6.0-6.5",
+        "ppm": "1260-1540",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 47,
+        "nama": "Fennel",
+        "ph": "6.4-6.8",
+        "ppm": "700-980",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 48,
+        "nama": "Lavender",
+        "ph": "6.4-6.8",
+        "ppm": "700-980",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 49,
+        "nama": "Lemon Balm",
+        "ph": "5.5-6.5",
+        "ppm": "700-1120",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 50,
+        "nama": "Marjoram",
+        "ph": "6.0",
+        "ppm": "1120-1400",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 51,
+        "nama": "Mint",
+        "ph": "5.5-6.0",
+        "ppm": "1400-1680",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 52,
+        "nama": "Mustard Cress",
+        "ph": "6.0-6.5",
+        "ppm": "840-1680",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 53,
+        "nama": "Parsley",
+        "ph": "5.5-6.0",
+        "ppm": "560-1260",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 54,
+        "nama": "Rosemary",
+        "ph": "5.5-6.0",
+        "ppm": "700-1120",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 55,
+        "nama": "Sage",
+        "ph": "5.5-6.5",
+        "ppm": "700-1120",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 56,
+        "nama": "Thyme",
+        "ph": "5.5-70",
+        "ppm": "560-1120",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 57,
+        "nama": "Watercress",
+        "ph": "6.5-6.8",
+        "ppm": "280-1260",
+        "jenis": "Tanaman Herbal"
+    },
+    {
+        "id": 58,
+        "nama": "Cabe",
+        "ph": "6.0-6.5",
+        "ppm": "1260-1540",
+        "jenis": "Sayur Buah"
+    },
+    {
+        "id": 59,
+        "nama": "Kacang Polong",
+        "ph": "6.0-7.0",
+        "ppm": "980-1260",
+        "jenis": "Sayur Buah"
+    },
+    {
+        "id": 60,
+        "nama": "Okra",
+        "ph": "6.5",
+        "ppm": "1400-1680",
+        "jenis": "Sayur Buah"
+    },
+    {
+        "id": 61,
+        "nama": "Tomat",
+        "ph": "6.0-6.5",
+        "ppm": "1400-3500",
+        "jenis": "Sayur Buah"
+    },
+    {
+        "id": 62,
+        "nama": "Terong",
+        "ph": "6.0",
+        "ppm": "1750-2450",
+        "jenis": "Sayur Buah"
+    },
+    {
+        "id": 63,
+        "nama": "Timun",
+        "ph": "5.5",
+        "ppm": "1190-1750",
+        "jenis": "Sayur Buah"
+    },
+    {
+        "id": 64,
+        "nama": "Timun Jepang",
+        "ph": "6.0",
+        "ppm": "1260-1680",
+        "jenis": "Sayur Buah"
+    },
+    {
+        "id": 65,
+        "nama": "Bawang Merah",
+        "ph": "6.0-6.7",
+        "ppm": "980-1260",
+        "jenis": "Tanaman Umbi"
+    },
+    {
+        "id": 66,
+        "nama": "Bawang Putih",
+        "ph": "6.0",
+        "ppm": "980-1260",
+        "jenis": "Tanaman Umbi"
+    },
+    {
+        "id": 67,
+        "nama": "Kentang",
+        "ph": "5.0-6.0",
+        "ppm": "1400-1750",
+        "jenis": "Tanaman Umbi"
+    },
+    {
+        "id": 68,
+        "nama": "Lobak",
+        "ph": "6.0-6.5",
+        "ppm": "1260-1680",
+        "jenis": "Tanaman Umbi"
+    },
+    {
+        "id": 69,
+        "nama": "Talas",
+        "ph": "5.0-5.5",
+        "ppm": "1750-2100",
+        "jenis": "Tanaman Umbi"
+    },
+    {
+        "id": 70,
+        "nama": "Ubi",
+        "ph": "6.0",
+        "ppm": "980-1260",
+        "jenis": "Tanaman Umbi"
+    },
+    {
+        "id": 71,
+        "nama": "Ubi Jalar",
+        "ph": "5.5-6.0",
+        "ppm": "1400-1750",
+        "jenis": "Tanaman Umbi"
+    },
+    {
+        "id": 72,
+        "nama": "Wortel",
+        "ph": "6.3",
+        "ppm": "1120-1400",
+        "jenis": "Tanaman Umbi"
+    },
+    {
+        "id": 73,
+        "nama": "Blueberry",
+        "ph": "4.0-5.0",
+        "ppm": "1260-1400",
+        "jenis": "Tanaman Buah"
+    },
+    {
+        "id": 74,
+        "nama": "Kismis Hitam",
+        "ph": "6.0",
+        "ppm": "980-1260",
+        "jenis": "Tanaman Buah"
+    },
+    {
+        "id": 75,
+        "nama": "Kismis Merah",
+        "ph": "6.0",
+        "ppm": "1400-1680",
+        "jenis": "Tanaman Buah"
+    },
+    {
+        "id": 76,
+        "nama": "Melon",
+        "ph": "5.5-6.0",
+        "ppm": "1400-1750",
+        "jenis": "Tanaman Buah"
+    },
+    {
+        "id": 77,
+        "nama": "Markisa",
+        "ph": "6.5",
+        "ppm": "840-1680",
+        "jenis": "Tanaman Buah"
+    },
+    {
+        "id": 78,
+        "nama": "Nanas",
+        "ph": "5.5-6.0",
+        "ppm": "1400-1680",
+        "jenis": "Tanaman Buah"
+    },
+    {
+        "id": 79,
+        "nama": "Pisang",
+        "ph": "5.5-6.5",
+        "ppm": "1260-1540",
+        "jenis": "Tanaman Buah"
+    },
+    {
+        "id": 80,
+        "nama": "Pepaya",
+        "ph": "6.5",
+        "ppm": "840-1680",
+        "jenis": "Tanaman Buah"
+    },
+    {
+        "id": 81,
+        "nama": "Strawberry",
+        "ph": "6.0",
+        "ppm": "1260-1540",
+        "jenis": "Tanaman Buah"
+    },
+    {
+        "id": 82,
+        "nama": "Semangka",
+        "ph": "5.8",
+        "ppm": "1260-1680",
+        "jenis": "Tanaman Buah"
+    }
+]
